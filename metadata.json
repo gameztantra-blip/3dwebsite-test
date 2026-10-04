@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA AI",
+  "description": "Intelligent platform that helps teams automate workflows, analyze information, and build AI-powered products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
